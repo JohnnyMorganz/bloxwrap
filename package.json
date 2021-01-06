@@ -13,6 +13,6 @@
   "license": "MIT",
   "dependencies": {
     "@discordjs/collection": "^0.1.5",
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   }
 }
